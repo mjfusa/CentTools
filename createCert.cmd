@@ -1,0 +1,1 @@
+powershell New-SelfSignedCertificate -Type Custom -Subject "'CN=Mike Francis'" -KeyUsage DigitalSignature -CertStoreLocation "cert:\currentuser\my"

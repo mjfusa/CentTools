@@ -1,0 +1,1 @@
+robocopy /S \\FSU\Shares\appconsult\%1 \\redmond\osg\Teams\CORE\DEP\Centennial\Packages\%1
